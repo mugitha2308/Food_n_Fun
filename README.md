@@ -1,4 +1,4 @@
-# Food_n_Fun
+# AICTE Internship : Food_n_Fun - An online restaurant management system
 
 -Food n Fun is a restaurant based website.
 
